@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in C# programming
-- 🌱 I’m currently learning more about Code Mapping in Visual Studio 2019
+- 👀 I’m interested in C#, SQL , Web, MVC, Linq, and much more. 
+- 🌱 I’m currently studying EF, SQL and Linq with Visual Studio 2019.  - Pluralsight is great :-) 
 
 - 📫 How to reach me, I prefer email  ( peter.eslov@hotmail.se ) 
 
